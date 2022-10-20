@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyPlantsVsZombies</string>
+    <string name="search">search</string>
+    <string name="add">add</string>
+    <string name="name">name</string>
+    <string name="phone">phone</string>
+    <string name="email">email</string>
+    <string name="gameStart">startGame</string>
+    <string name="bind">bind</string>
+    <string name="unbind">unbind</string>
+    <string name="getstatus">getstatus</string>
+    <string name="sendBroadcast">sendBroadcast</string>
+</resources>
